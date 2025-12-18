@@ -1,0 +1,23 @@
+{
+  "name": "koishi-plugin-autoglm",
+  "description": "万物皆可bot-AutoGLM-通过电脑连接ADB控制手机ai操作",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin",
+    "autoglm",
+    "adb",
+    "phone-control"
+  ],
+  "peerDependencies": {
+    "koishi": ">=4.18.9"
+  }
+}
