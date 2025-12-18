@@ -5,10 +5,11 @@
 
 ## 插件起源
 - 事情还要从某天说起，那天我闲着无聊打开了B站就看到了一个视频，视频如下，我在想都可以写成这样了，为什么不让Bot来帮我操控手机呢？于是就有了这个插件的诞生。我的文档看你写出来教程不是很明细，你们需要也可以看看下面的视频[自语：虽然也不知道能干啥用吧，但是写出来总归是好事情嘛~]
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115715696757292&bvid=BV1fUmYByEWH&cid=34726545956&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ### 项目所需文件
 - 下载链接：https://wwant.lanzouu.com/b0187zv6kf [密码:4i7r] 含requirements.txt和所有必要文件
+
+> ps: 以下是抄源代码的文档的，我是新手小白有些东西可能不太懂还请大佬多多指教[鞠躬[
 
 ### 电脑端配置
 - [ ] Node.js 环境就不说了，肯定有安装不然也见不到我的插件了
